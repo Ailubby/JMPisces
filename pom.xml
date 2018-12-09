@@ -11,6 +11,8 @@
 
     <modules>
         <module>registry</module>
+        <module>auth</module>
+        <module>gateway</module>
     </modules>
 
 </project>
